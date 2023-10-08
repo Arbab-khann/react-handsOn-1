@@ -22,7 +22,7 @@ body {
   flex-direction: column;
   position: absolute;
   align-items: center;
-  top: 150px;
+  top: 120px;
   left: 0px;
   height: 70%;
   width: 49%;
@@ -32,7 +32,7 @@ body {
   flex-direction: column;
   position: absolute;
   align-items: center;
-  top: 150px;
+  top: 120px;
   right: 0px;
   height: 70%;
   width: 49%;
@@ -60,27 +60,13 @@ body {
   cursor: pointer;
 }
 
-.class-div {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  border-radius: 15px;
-
-  height: 300px;
-  width: 400px;
-  margin-top: 100px;
-}
-
+.class-div,
 .func-div {
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
   border-radius: 15px;
-
-  height: 300px;
-  width: 400px;
 
   height: 300px;
   width: 400px;
